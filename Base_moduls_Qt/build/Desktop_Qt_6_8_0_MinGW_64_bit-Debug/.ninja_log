@@ -1,0 +1,17 @@
+# ninja log v6
+4	80	7541346737851732	F:/YandexDisk/YandexDisk/Study/QT/HW-2/Base_moduls_Qt/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	dbef33e491380537
+59	195	7541328166372121	Base_moduls_Qt_autogen/timestamp	f60dce55521e4fd
+200	4286	7541328166825454	CMakeFiles/Base_moduls_Qt.dir/main.cpp.obj	4b8a1fd0f32b2219
+59	195	7541328166372121	Base_moduls_Qt_autogen/mocs_compilation.cpp	f60dce55521e4fd
+59	195	7541328166372121	F:/YandexDisk/YandexDisk/Study/QT/HW-2/Base_moduls_Qt/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Base_moduls_Qt_autogen/mocs_compilation.cpp	f60dce55521e4fd
+59	195	7541328166372121	F:/YandexDisk/YandexDisk/Study/QT/HW-2/Base_moduls_Qt/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Base_moduls_Qt_autogen/timestamp	f60dce55521e4fd
+197	250	7541328166805458	CMakeFiles/Base_moduls_Qt.dir/Base_moduls_Qt_autogen/mocs_compilation.cpp.obj	d45b17afb635b685
+80	989	7541346746676964	build.ninja	7ebea04174eb58c8
+20	93	7541346747903793	F:/YandexDisk/YandexDisk/Study/QT/HW-2/Base_moduls_Qt/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	dbef33e491380537
+108	234	7541346748789966	Base_moduls_Qt_autogen/timestamp	f60dce55521e4fd
+108	234	7541346748789966	Base_moduls_Qt_autogen/mocs_compilation.cpp	f60dce55521e4fd
+108	234	7541346748789966	F:/YandexDisk/YandexDisk/Study/QT/HW-2/Base_moduls_Qt/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Base_moduls_Qt_autogen/timestamp	f60dce55521e4fd
+108	234	7541346748789966	F:/YandexDisk/YandexDisk/Study/QT/HW-2/Base_moduls_Qt/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Base_moduls_Qt_autogen/mocs_compilation.cpp	f60dce55521e4fd
+234	272	7541346750056284	CMakeFiles/Base_moduls_Qt.dir/Base_moduls_Qt_autogen/mocs_compilation.cpp.obj	4a3f9c1edb416b54
+237	4321	7541346750076287	CMakeFiles/Base_moduls_Qt.dir/main.cpp.obj	e98469ade753ee88
+4321	4433	7541346790918434	Base_moduls_Qt.exe	c3b25353d44c200b

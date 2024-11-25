@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-0f8dab45e96557378c0d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Base_moduls_Qt",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Base_moduls_Qt::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Base_moduls_Qt-Debug-d22891ccec6e54e77bfb.json",
+					"name" : "Base_moduls_Qt",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Base_moduls_Qt_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Base_moduls_Qt_autogen-Debug-6abc618ed759c39e389c.json",
+					"name" : "Base_moduls_Qt_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Base_moduls_Qt_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Base_moduls_Qt_autogen_timestamp_deps-Debug-de32d9f43ec4bfd5d50e.json",
+					"name" : "Base_moduls_Qt_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "F:/YandexDisk/YandexDisk/Study/QT/HW-2/Base_moduls_Qt/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug",
+		"source" : "F:/YandexDisk/YandexDisk/Study/QT/HW-2/Base_moduls_Qt"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
